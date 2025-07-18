@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🌊, I'm Basant Saad</h1>
-<h3 align="center">Motivated Artificial Intelligence undergraduate with expertise in machine learning, deep learning, data science, and IoT systems. Proficient in developing innovative solutions using Python, PyTorch, and embedded systems. Seeking an Intelligent Systems Intern role to contribute to AI and robotics projects.</h3>
+<h3 align="center">Motivated Artificial Intelligence undergraduate with expertise in machine learning, deep learning, data science, and IoT systems. Proficient in developing innovative solutions using Python, PyTorch, and embedded systems.</h3>
 
 - 🔭 I’m currently working on **Hand Washing steps Classification**
 
