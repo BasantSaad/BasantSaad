@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **basant.saadeldeen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zYB11yTfRih25Yl5zKJIg0V39P0zATai/view?usp=drive_link]([https://drive.google.com/file/d/1zYB11yTfRih25Yl5zKJIg0V39P0zATai/view?usp=drive_link](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zYB11yTfRih25Yl5zKJIg0V39P0zATai/view?usp=drive_link](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link))
 
 - ⚡ Fun fact **I was a violin player 🎻**
 
