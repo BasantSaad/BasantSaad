@@ -1,95 +1,206 @@
-<h1 align="center">Hi, I'm Basant Saad 👋</h1>
-<h3 align="center">AI Engineer | Machine Learning Enthusiast | IoT Developer</h3>
+<h1 align="center">Hi, I'm Basant Saadeldin 👋</h1>
+<h3 align="center">Artificial Intelligence Engineer | Machine Learning Specialist | IoT Developer</h3>
 
 <p align="center">
-Motivated Artificial Intelligence undergraduate with expertise in machine learning, deep learning, data science, and IoT systems. Proficient in developing innovative solutions using Python, PyTorch, and embedded systems. Seeking opportunities to contribute to cutting-edge AI and robotics projects.
+  <em>Passionate about building intelligent systems that solve real-world problems</em>
 </p>
-
----
-
-### 🔭 Current Projects
-- **Hand Washing Steps Classification** - Developing a computer vision system to identify and classify proper hand washing techniques
-
-### 🌱 Currently Learning
-- IBM Generative AI Professional Course (Coursera)
-- ITI Generative AI Course (NVIDIA)
-
-### 🎯 Expertise
-- **Machine Learning & Deep Learning**: PyTorch, TensorFlow, Scikit-learn
-- **Computer Vision**: OpenCV, Image Classification, Object Detection
-- **Data Science**: Pandas, NumPy, Seaborn, Data Analysis & Visualization
-- **IoT & Embedded Systems**: Arduino, Sensor Integration, Real-time Systems
-- **Programming**: Python, C, C++, MATLAB
-
----
-
-### 📫 Let's Connect!
-- **Email**: basant.saadeldeen@gmail.com
-- **LinkedIn**: [Basant Saad](https://www.linkedin.com/in/basant-saad-a9a190248)
-- **Kaggle**: [basantsaad](https://www.kaggle.com/basantsaad)
-- **Portfolio**: [GitHub Projects](https://github.com/basantsaad)
-- **Resume**: [View My CV](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link)
-
----
-
-### 💡 Fun Fact
-🎻 Former violin player with a passion for blending creativity and technology!
-
----
-
-<h3 align="left">🛠️ Technical Skills:</h3>
-
-**Languages:**  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-</p>
-
-**AI/ML Frameworks:**  
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</p>
-
-**Data Science:**  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</p>
-
-**Development Tools:**  
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-**Web Technologies:**  
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
-
-**Other Tools:**  
-<p align="left">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basantsaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="basantsaad" />
+  <a href="mailto:basant.saadeldeen@gmail.com"><img src="https://img.shields.io/badge/Email-basant.saadeldeen%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/basant-saadeldin-a9a190248"><img src="https://img.shields.io/badge/LinkedIn-Basant%20Saadeldin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/basantsaad"><img src="https://img.shields.io/badge/GitHub-basantsaad-black?style=flat-square&logo=github"></a>
+  <a href="https://www.kaggle.com/basantsaad"><img src="https://img.shields.io/badge/Kaggle-basantsaad-20BEFF?style=flat-square&logo=kaggle"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on experience in machine learning, deep learning, generative AI, and IoT systems. Currently expanding my expertise in **Generative AI** through NVIDIA and ITI training programs. Former **CIB Egypt Summer Intern** and active **IEEE Student Member** committed to advancing AI technology.
+
+- 🔭 Currently working on: **Hand Washing Steps Classification using CNNs**
+- 🌱 Currently learning: **Generative AI, LLM Applications, RAG, Prompt Engineering** (ITI x NVIDIA)
+- 🎯 Seeking: **AI/ML Internship and Research Opportunities**
+- 🎻 Fun fact: **Former violin player** combining creativity with technical innovation
+- 📄 **[View My Full Resume](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 [Smart Fire Detection System](https://github.com/basantsaad)
+**IoT-based intelligent fire detection with ML pipeline**
+- Developed a two-stage ML pipeline combining **Random Forest** and **CNN**, achieving **15% reduction in false positives**
+- Integrated **real-time alerts** and **Blynk IoT Cloud dashboard** for remote monitoring
+- **Tech Stack:** Python, TensorFlow, Arduino, IoT sensors, Blynk
+
+### 🐠 [Sea Creature Classification](https://github.com/basantsaad)
+**Deep learning application for marine biology research**
+- Built a robust **CNN model** for multi-class sea creature classification
+- Deployed an interactive **Streamlit interface** for user-friendly image classification
+- **Tech Stack:** PyTorch, Streamlit, OpenCV, Python
+
+### 🧼 [Hand Washing Steps Classification](https://github.com/basantsaad)
+**Health & hygiene monitoring using computer vision**
+- Created a **CNN in TensorFlow** to classify 7 hand washing steps with **88% accuracy**
+- Contributes to public health monitoring and hygiene compliance
+- **Tech Stack:** TensorFlow, Keras, OpenCV, Python
+
+---
+
+## 💼 Professional Experience
+
+### 🏦 **CIB Egypt** | Summer Intern
+*July 2025 - August 2025 | Cairo, Egypt*
+- Assisted in financial data entry, reconciliation, and reporting for Egypt's leading bank
+- Applied computer science skills to **automate spreadsheet tasks** and improve workflow efficiency
+
+### 🤖 **NVIDIA Training Track - GenAI** | ITI Mansoura
+*November 2025 - Present*
+- Mastering **LLM application development** using advanced prompt engineering
+- Learning **Retrieval-Augmented Generation (RAG)** for context-aware AI systems
+- Gaining hands-on experience with cutting-edge GenAI tools and workflows
+
+### 🎓 **HCIA-AI Certification** | Huawei & NTI
+*June 2024 - August 2024*
+- Completed intensive training in AI, ML, and deep learning through hands-on projects
+- Gained industry-recognized certification in artificial intelligence fundamentals
+
+---
+
+## 🛠️ Technical Skills
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Core Competencies:**
+- Machine Learning Algorithms | Deep Learning | Predictive Analytics
+- Computer Vision | Natural Language Processing
+- Generative AI | LLM Applications | Prompt Engineering | RAG
+
+### **Data Science & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools:** Pandas • NumPy • Matplotlib • Seaborn • Data Visualization
+
+### **IoT & Embedded Systems**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+**Platforms:** Arduino • Raspberry Pi • IoT Sensors • Robotics  
+**Languages:** MATLAB • VHDL
+
+### **Programming & Development**
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Languages:** Python • C/C++ • SQL • Prolog  
+**Frameworks:** Flask • Streamlit  
+**Tools:** Git • GitHub • Linux • VS Code
+
+---
+
+## 🎓 Certifications
+
+<details>
+<summary><b>Click to view all certifications</b></summary>
+
+### Google Cloud
+- ✅ Introduction to Generative AI Learning Path Specialization
+
+### Microsoft
+- ✅ MTA: Introduction to Programming Using Python
+
+### Stanford University
+- ✅ Supervised Machine Learning: Regression and Classification
+
+### IBM
+- ✅ Data Analysis with Python
+- ✅ Machine Learning with Python
+- ✅ Developing AI Applications with Python and Flask
+- ✅ Python for Data Science, AI & Development
+- ✅ Introduction to Artificial Intelligence (AI)
+
+### Youth for Technology & Arts (YTA)
+- ✅ Introduction to AI, Machine Learning, and Quantum Computing Foundations
+
+</details>
+
+---
+
+## 🏆 Leadership & Community
+
+### 🤝 **Machine Learning Self-Study Group Leader**
+- Founded and led a peer mentorship group for machine learning education
+- Guided fellow students through ML concepts, projects, and best practices
+
+### 🔬 **IEEE Student Member**
+- Actively participated in AI and robotics workshops
+- Engaged with cutting-edge research and technical skill development
+
+### 💡 **InnovEgypt Program Graduate** | TIEC
+- Completed intensive training in innovation, design thinking, and entrepreneurship
+- Developed skills in problem identification, creative solutions, and business model development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basantsaad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basantsaad&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=basantsaad&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+
+---
+
+## 🌟 Core Competencies
+
+```python
+basant_saadeldin = {
+    "education": "B.Sc. Artificial Intelligence @ Menoufia University (Excellent GPA)",
+    "specializations": ["Machine Learning", "Deep Learning", "Generative AI", "IoT Systems"],
+    "currently_learning": ["LLM Applications", "RAG", "Prompt Engineering"],
+    "seeking": "AI/ML Internship & Research Opportunities",
+    "soft_skills": ["Problem-Solving", "Teamwork", "Leadership", "Communication"],
+    "languages": {"Arabic": "Native", "English": "Proficient"}
+}
+```
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to discussing AI projects, research collaborations, or internship opportunities!
+
+<p align="center">
+  <a href="mailto:basant.saadeldeen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-basant.saadeldeen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/basant-saadeldin-a9a190248">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/basantsaad">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Open to collaboration on AI/ML projects and internship opportunities!</i>
+  <i>⚡ "Combining technical excellence with creative innovation to build AI solutions that matter" ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=basantsaad&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
