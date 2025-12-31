@@ -187,7 +187,7 @@ I'm always open to discussing AI projects, research collaborations, or internshi
   <a href="mailto:basant.saadeldeen@gmail.com">
     <img src="https://img.shields.io/badge/Email-basant.saadeldeen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/basant-saadeldin-a9a190248">
+  <a href="https://www.linkedin.com/in/basant-saad-eldin-a9a190248">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/basantsaad">
