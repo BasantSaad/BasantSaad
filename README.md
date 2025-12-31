@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:basant.saadeldeen@gmail.com"><img src="https://img.shields.io/badge/Email-basant.saadeldeen%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="www.linkedin.com/in/basant-saad-eldin-a9a190248"><img src="https://img.shields.io/badge/LinkedIn-Basant%20Saadeldin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/basant-saad-eldin-a9a190248"><img src="https://img.shields.io/badge/LinkedIn-Basant%20Saadeldin-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/basantsaad"><img src="https://img.shields.io/badge/GitHub-basantsaad-black?style=flat-square&logo=github"></a>
   <a href="https://www.kaggle.com/basantsaad"><img src="https://img.shields.io/badge/Kaggle-basantsaad-20BEFF?style=flat-square&logo=kaggle"></a>
 </p>
