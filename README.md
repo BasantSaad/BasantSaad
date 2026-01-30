@@ -38,7 +38,7 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 **Deep learning application for marine biology research**
 - Built a robust **CNN model** for multi-class sea creature classification
 - Deployed an interactive **Streamlit interface** for user-friendly image classification
-- **Tech Stack:** PyTorch, Streamlit, OpenCV, Python
+- **Tech Stack:** PyTorch, Streamlit, OpenCV, Python, Prompot Engineering, CLIP, OpenAI
 
 ### 🧼 [Hand Washing Steps Classification](https://github.com/basantsaad)
 **Health & hygiene monitoring using computer vision**
@@ -49,14 +49,14 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 ---
 
 ## 💼 Professional Experience
-
-### 🏦 **CIB Egypt** | Summer Intern
-*July 2025 - August 2025 | Cairo, Egypt*
-- Assisted in financial data entry, reconciliation, and reporting for Egypt's leading bank
-- Applied computer science skills to **automate spreadsheet tasks** and improve workflow efficiency
+## **Orange Digital Center Egypt & Digital Hub - Data Analysis Using AI Track
+*Januari 2026 - precent*
+- Performed data cleaning, preprocessing, and **exploratory data analysis** (EDA).
+- Analyzed datasets to identify patterns, trends, and insights using statistical techniques.
+- Built **data visualizations and interactive dashboards** using AI-assisted tools.
 
 ### 🤖 **NVIDIA Training Track - GenAI** | ITI Mansoura
-*November 2025 - Present*
+*November 2025 - December 2025*
 - Mastering **LLM application development** using advanced prompt engineering
 - Learning **Retrieval-Augmented Generation (RAG)** for context-aware AI systems
 - Gaining hands-on experience with cutting-edge GenAI tools and workflows
@@ -65,6 +65,11 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 *June 2024 - August 2024*
 - Completed intensive training in AI, ML, and deep learning through hands-on projects
 - Gained industry-recognized certification in artificial intelligence fundamentals
+
+### 🏦 **CIB Egypt** | Summer Intern
+*July 2025 - August 2025 | Cairo, Egypt*
+- Assisted in financial data entry, reconciliation, and reporting for Egypt's leading bank
+- Applied computer science skills to **automate spreadsheet tasks** and improve workflow efficiency
 
 ---
 
