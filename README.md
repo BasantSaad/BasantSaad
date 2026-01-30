@@ -28,13 +28,13 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 
 ## 🚀 Featured Projects
 
-### 🔥 [Smart Fire Detection System](https://github.com/basantsaad)
+### 🔥 [Smart Fire Detection System](https://github.com/BasantSaad/Fire-Detection-System)
 **IoT-based intelligent fire detection with ML pipeline**
 - Developed a two-stage ML pipeline combining **Random Forest** and **CNN**, achieving **15% reduction in false positives**
 - Integrated **real-time alerts** and **Blynk IoT Cloud dashboard** for remote monitoring
 - **Tech Stack:** Python, TensorFlow, Arduino, IoT sensors, Blynk
 
-### 🐠 [Sea Creature Classification](https://github.com/basantsaad)
+### 🐠 [Sea Creature Classification](https://github.com/BasantSaad/Sea-Creatures-Classification-Using-PyTorch-Streamlit)
 **Deep learning application for marine biology research**
 - Built a robust **CNN model** for multi-class sea creature classification
 - Deployed an interactive **Streamlit interface** for user-friendly image classification
@@ -187,7 +187,7 @@ I'm always open to discussing AI projects, research collaborations, or internshi
   <a href="mailto:basant.saadeldeen@gmail.com">
     <img src="https://img.shields.io/badge/Email-basant.saadeldeen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/basant-saad-eldin-a9a190248">
+  <a href="https://www.linkedin.com/in/basant-saad-eldin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/basantsaad">
