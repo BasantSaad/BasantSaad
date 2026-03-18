@@ -14,19 +14,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on experience in machine learning, deep learning, generative AI, and IoT systems. Currently expanding my expertise in **Generative AI** through NVIDIA and ITI training programs. Former **CIB Egypt Summer Intern** and active **IEEE Student Member** committed to advancing AI technology.
 
-- 🔭 Currently working on: **Hand Washing Steps Classification using CNNs**
-- 🌱 Currently learning: **Generative AI, LLM Applications, RAG, Prompt Engineering** (ITI x NVIDIA)
-- 🎯 Seeking: **AI/ML Internship and Research Opportunities**
-- 🎻 Fun fact: **Former violin player** combining creativity with technical innovation
+-  Currently working on: **Hand Washing Steps Classification using CNNs**
+-  Currently learning: **Generative AI, LLM Applications, RAG, Prompt Engineering** (ITI x NVIDIA)
+-  Seeking: **AI/ML Internship and Research Opportunities**
+-  Fun fact: **Former violin player** combining creativity with technical innovation
 - 📄 **[View My Full Resume](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link)**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔥 [Smart Fire Detection System](https://github.com/BasantSaad/Fire-Detection-System)
 **IoT-based intelligent fire detection with ML pipeline**
@@ -55,25 +55,25 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 - Analyzed datasets to identify patterns, trends, and insights using statistical techniques.
 - Built **data visualizations and interactive dashboards** using AI-assisted tools.
 
-### 🤖 **NVIDIA Training Track - GenAI** | ITI Mansoura
+###  **NVIDIA Training Track - GenAI** | ITI Mansoura
 *November 2025 - December 2025*
 - Mastering **LLM application development** using advanced prompt engineering
 - Learning **Retrieval-Augmented Generation (RAG)** for context-aware AI systems
 - Gaining hands-on experience with cutting-edge GenAI tools and workflows
 
-### 🎓 **HCIA-AI Certification** | Huawei & NTI
+###  **HCIA-AI Certification** | Huawei & NTI
 *June 2024 - August 2024*
 - Completed intensive training in AI, ML, and deep learning through hands-on projects
 - Gained industry-recognized certification in artificial intelligence fundamentals
 
-### 🏦 **CIB Egypt** | Summer Intern
+###  **CIB Egypt** | Summer Intern
 *July 2025 - August 2025 | Cairo, Egypt*
 - Assisted in financial data entry, reconciliation, and reporting for Egypt's leading bank
 - Applied computer science skills to **automate spreadsheet tasks** and improve workflow efficiency
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -140,23 +140,23 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 
 ---
 
-## 🏆 Leadership & Community
+##  Leadership & Community
 
-### 🤝 **Machine Learning Self-Study Group Leader**
+###  **Machine Learning Self-Study Group Leader**
 - Founded and led a peer mentorship group for machine learning education
 - Guided fellow students through ML concepts, projects, and best practices
 
-### 🔬 **IEEE Student Member**
+###  **IEEE Student Member**
 - Actively participated in AI and robotics workshops
 - Engaged with cutting-edge research and technical skill development
 
-### 💡 **InnovEgypt Program Graduate** | TIEC
+###  **InnovEgypt Program Graduate** | TIEC
 - Completed intensive training in innovation, design thinking, and entrepreneurship
 - Developed skills in problem identification, creative solutions, and business model development
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basantsaad&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
@@ -184,7 +184,7 @@ basant_saadeldin = {
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 I'm always open to discussing AI projects, research collaborations, or internship opportunities!
 
