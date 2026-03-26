@@ -40,15 +40,9 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 - Deployed an interactive **Streamlit interface** for user-friendly image classification
 - **Tech Stack:** PyTorch, Streamlit, OpenCV, Python, Prompot Engineering, CLIP, OpenAI
 
-### 🧼 [Hand Washing Steps Classification](https://github.com/basantsaad)
-**Health & hygiene monitoring using computer vision**
-- Created a **CNN in TensorFlow** to classify 7 hand washing steps with **88% accuracy**
-- Contributes to public health monitoring and hygiene compliance
-- **Tech Stack:** TensorFlow, Keras, OpenCV, Python
-
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 ## **Orange Digital Center Egypt & Digital Hub - Data Analysis Using AI Track
 *Januari 2026 - precent*
 - Performed data cleaning, preprocessing, and **exploratory data analysis** (EDA).
