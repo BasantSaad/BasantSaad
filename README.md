@@ -22,29 +22,37 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 -  Currently learning: **Generative AI, LLM Applications, RAG, Prompt Engineering** (ITI x NVIDIA)
 -  Seeking: **AI/ML Internship and Research Opportunities**
 -  Fun fact: **Former violin player** combining creativity with technical innovation
-- 📄 **[View My Full Resume](https://drive.google.com/file/d/1IPSha9j13mtIgNcNwuj58TAkRoSxyBRZ/view?usp=drive_link)**
+- 📄 **([View My Full Resume](https://drive.google.com/file/d/11VAVEnZUGJ9mTdRCXSMr5ksVg3_qJozt/view?usp=sharing))**
 
 ---
 
 ##  Featured Projects
+###  [Daily AI Updates Automation System](https://github.com/BasantSaad/Fire-Detection-System)
+- Developed an autonomous agent system that aggregates and analyzes news from 7+ global AI sources.
+- Orchestrated a 4-stage pipeline: data collection, LLM processing, summarization, and automated email delivery.
 
-### 🔥 [Smart Fire Detection System](https://github.com/BasantSaad/Fire-Detection-System)
+###  [Sea Creature Classification](https://github.com/BasantSaad/Sea-Creatures-Classification-Using-PyTorch-Streamlit)
+- Boosted classification accuracy from 63% to 93% by replacing Pretrained CNNs models with CLIP, effectively bridging Vision-Language Model (VLM).
+- Achieved a 30% jump in precision across 19+ diverse species, deploying the final solution via a Streamlit interface.
+- **Tech Stack:** PyTorch, Streamlit, OpenCV, Python, Prompot Engineering, CLIP, OpenAI
+
+###  [Smart Fire Detection System](https://github.com/BasantSaad/Fire-Detection-System)
 **IoT-based intelligent fire detection with ML pipeline**
 - Developed a two-stage ML pipeline combining **Random Forest** and **CNN**, achieving **15% reduction in false positives**
 - Integrated **real-time alerts** and **Blynk IoT Cloud dashboard** for remote monitoring
 - **Tech Stack:** Python, TensorFlow, Arduino, IoT sensors, Blynk
 
-### 🐠 [Sea Creature Classification](https://github.com/BasantSaad/Sea-Creatures-Classification-Using-PyTorch-Streamlit)
-**Deep learning application for marine biology research**
-- Built a robust **CNN model** for multi-class sea creature classification
-- Deployed an interactive **Streamlit interface** for user-friendly image classification
-- **Tech Stack:** PyTorch, Streamlit, OpenCV, Python, Prompot Engineering, CLIP, OpenAI
-
 ---
 
 ##  Professional Experience
+## **AI Agents & LLMs Training Track | Orange Digital Center & D-Hub 
+*Cairo, Egypt (02/2026 – 03/2026)*
+•	Architected multi-agent systems using LLM fundamentals that automated 90% of manual email sorting and API data entry workflows.
+•	Engineered Retrieval-Augmented Generation (RAG) systems to provide accurate, knowledge-based Q&A for complex datasets, improving retrieval precision.
+•	Deployed a production-ready AI Assistant, ensuring high responsiveness and system reliability.
+
 ## **Orange Digital Center Egypt & Digital Hub - Data Analysis Using AI Track
-*Januari 2026 - precent*
+*Cairo, Egypt (01/2026 – 02/2026)*
 - Performed data cleaning, preprocessing, and **exploratory data analysis** (EDA).
 - Analyzed datasets to identify patterns, trends, and insights using statistical techniques.
 - Built **data visualizations and interactive dashboards** using AI-assisted tools.
@@ -106,29 +114,29 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 <details>
 <summary><b>Click to view all certifications</b></summary>
 
 ### Google Cloud
-- ✅ Introduction to Generative AI Learning Path Specialization
+-  Introduction to Generative AI Learning Path Specialization
 
 ### Microsoft
-- ✅ MTA: Introduction to Programming Using Python
+-  MTA: Introduction to Programming Using Python
 
 ### Stanford University
-- ✅ Supervised Machine Learning: Regression and Classification
+-  Supervised Machine Learning: Regression and Classification
 
 ### IBM
-- ✅ Data Analysis with Python
-- ✅ Machine Learning with Python
-- ✅ Developing AI Applications with Python and Flask
-- ✅ Python for Data Science, AI & Development
-- ✅ Introduction to Artificial Intelligence (AI)
+-  Data Analysis with Python
+-  Machine Learning with Python
+-  Developing AI Applications with Python and Flask
+-  Python for Data Science, AI & Development
+-  Introduction to Artificial Intelligence (AI)
 
 ### Youth for Technology & Arts (YTA)
-- ✅ Introduction to AI, Machine Learning, and Quantum Computing Foundations
+-  Introduction to AI, Machine Learning, and Quantum Computing Foundations
 
 </details>
 
