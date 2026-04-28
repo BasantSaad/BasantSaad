@@ -15,7 +15,8 @@
 
 ##  About Me
 
-AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on experience in machine learning, deep learning, generative AI, and IoT systems. Currently expanding my expertise in **Generative AI** through NVIDIA and ITI training programs. Former **CIB Egypt Summer Intern** and active **IEEE Student Member** committed to advancing AI technology.
+AI Specialist with hands-on experience in machine learning, deep learning, generative AI, and IoT systems. Currently expanding my expertise in **Generative AI** through NVIDIA and ITI training programs. 
+
 
 -  Currently working on: **Hand Washing Steps Classification using CNNs**
 -  Currently learning: **Generative AI, LLM Applications, RAG, Prompt Engineering** (ITI x NVIDIA)
@@ -44,25 +45,25 @@ AI undergraduate at **Menoufia University** (GPA: Excellent) with hands-on exper
 ---
 
 ##  Professional Experience
-## **AI Agents & LLMs Training Track | Orange Digital Center & D-Hub 
+## **AI Agents & LLMs Training Track | Orange Digital Center & D-Hub** 
 *Cairo, Egypt (02/2026 – 03/2026)*
 •	Architected multi-agent systems using LLM fundamentals that automated 90% of manual email sorting and API data entry workflows.
 •	Engineered Retrieval-Augmented Generation (RAG) systems to provide accurate, knowledge-based Q&A for complex datasets, improving retrieval precision.
 •	Deployed a production-ready AI Assistant, ensuring high responsiveness and system reliability.
 
-## **Orange Digital Center Egypt & Digital Hub - Data Analysis Using AI Track
+## **Orange Digital Center Egypt & Digital Hub - Data Analysis Using AI Track**
 *Cairo, Egypt (01/2026 – 02/2026)*
 - Performed data cleaning, preprocessing, and **exploratory data analysis** (EDA).
 - Analyzed datasets to identify patterns, trends, and insights using statistical techniques.
 - Built **data visualizations and interactive dashboards** using AI-assisted tools.
 
-###  **NVIDIA Training Track - GenAI** | ITI Mansoura
+###  **NVIDIA Training Track - GenAI** | ITI Mansoura**
 *November 2025 - December 2025*
 - Mastering **LLM application development** using advanced prompt engineering
 - Learning **Retrieval-Augmented Generation (RAG)** for context-aware AI systems
 - Gaining hands-on experience with cutting-edge GenAI tools and workflows
 
-###  **HCIA-AI Certification** | Huawei & NTI
+###  **HCIA-AI Certification** | Huawei & NTI**
 *June 2024 - August 2024*
 - Completed intensive training in AI, ML, and deep learning through hands-on projects
 - Gained industry-recognized certification in artificial intelligence fundamentals
